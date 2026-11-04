@@ -61,3 +61,7 @@ footer span { color: var(--or); }
   .hero h1 { font-size: 1.9rem; }
   nav ul { gap: 12px; margin-top: 8px; }
 }
+/* Image du bandeau d'accueil */
+.hero {
+  background: linear-gradient(rgba(18,64,42,.85), rgba(27,94,59,.7)), url('../accueil.webp') center/cover;
+}
